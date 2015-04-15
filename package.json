@@ -1,0 +1,10 @@
+{
+  "name": "execo",
+  "version": "0.1.0",
+  "description": "thenable/yieldable child_process.exec",
+  "repository": "magjckang/execo",
+  "dependencies": {
+    "thenify": "*"
+  },
+  "license": "MIT"
+}
